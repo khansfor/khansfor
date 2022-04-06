@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! I am IT student that is working towards my goal of becoming a software engineer. I am currently learning JavaScript and have knowledge in C#, HTML, CSS and Python.
 
 <!--
 **khansfor/khansfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
